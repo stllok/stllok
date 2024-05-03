@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm stllok - I'm a fullstack developer. I'm interested to building a automatic system.
+I'm stllok - I'm a fullstack developer. I'm interested to build a automatic system.
 
 - 🔭 I’m currently working on osu! matchbot and tools for tournament staff
 - 🌱 I’m currently learning scala, anytype, machine learning
