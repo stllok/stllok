@@ -13,10 +13,10 @@ I'm stllok - I'm a fullstack developer. I'm interested to build a automatic syst
 [![My Skills](https://skillicons.dev/icons?i=linux,windows)](https://skillicons.dev)
 
 ### Language
-[![My Skills](https://skillicons.dev/icons?i=js,ts,html,css,rust,scala,python,lua,java,php)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=rust,scala,python,lua,java,html,css,js,ts,php,c#)](https://skillicons.dev)
 
 ### Framework
-[![My Skills](https://skillicons.dev/icons?i=svelte,tailwind,sass,tauri)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=svelte,tailwind,less,tauri)](https://skillicons.dev)
 
 ### IDE
 [![My Skills](https://skillicons.dev/icons?i=vscode,emacs)](https://skillicons.dev)
