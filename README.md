@@ -2,8 +2,8 @@
 
 I'm stllok - I'm a fullstack developer. I'm interested to build a automatic system.
 
-- 🔭 I’m currently working on osu! matchbot and tools for tournament staff
-- 🌱 I’m currently learning scala, anytype, machine learning
+- 🔭 I’m currently working on my side project with some mini commission
+- 🌱 I’m currently learning UI/UX design
 - 😄 Pronouns: still-lok, s-t-lok, s-t-l-l-o-k (???), or just call me **kelvin**
 - 📫 How to reach me (discord): lokson0204
 
@@ -16,10 +16,10 @@ I'm stllok - I'm a fullstack developer. I'm interested to build a automatic syst
 [![My Skills](https://skillicons.dev/icons?i=rust,scala,python,lua,java,html,css,js,ts,php,c#)](https://skillicons.dev)
 
 ### Framework
-[![My Skills](https://skillicons.dev/icons?i=svelte,tailwind,less,tauri)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=svelte,tailwind,less,tauri,astro)](https://skillicons.dev)
 
 ### IDE
-[![My Skills](https://skillicons.dev/icons?i=vscode,emacs)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=vscode,neovim,androidstudio)](https://skillicons.dev)
 
 ### Others
 [![My Skills](https://skillicons.dev/icons?i=docker,mysql,postgres,git)](https://skillicons.dev)
