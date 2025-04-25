@@ -4,7 +4,7 @@ I'm stllok - I'm a fullstack developer. I'm interested to build a automatic syst
 
 - 🔭 I’m currently working on my side project with some mini commission
 - 🌱 I’m currently learning UI/UX design
-- 😄 Pronouns: still-lok, s-t-lok, s-t-l-l-o-k (???), or just call me **kelvin**
+- 😄 Pronouns: just call me **kelvin**, or if u want here's what I heard from others pronounce my name (still-lok, s-t-lok, s-t-l-l-o-k (???))
 - 📫 How to reach me (discord): lokson0204
 
 ## Tools
