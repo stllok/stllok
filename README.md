@@ -24,9 +24,9 @@ I'm stllok - I'm a fullstack developer. I'm interested to build a automatic syst
 ### Others
 [![My Skills](https://skillicons.dev/icons?i=docker,mysql,postgres,git)](https://skillicons.dev)
 
-## Something I want to say
+## Something I want to say / 碎碎念
 
-I really appreciate people who ask question with following this guide:
+I really appreciate people who ask question with following this guide / 我非常欣賞能按照這份指引提問的人:
 - [English](http://www.catb.org/~esr/faqs/smart-questions.html#forum) *We are not a help desk for your project!*
 - [中文](https://github.com/ryanhanwu/How-To-Ask-Questions-The-Smart-Way) *本指南不提供此專案的實際支援服務！*
 
