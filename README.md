@@ -28,7 +28,7 @@ I'm stllok - I'm a fullstack developer. I'm interested to build a automatic syst
 
 I really appreciate people who ask question with following this guide:
 - [English](http://www.catb.org/~esr/faqs/smart-questions.html#forum)
-- [中文](https://github.com/tangx/Stop-Ask-Questions-The-Stupid-Ways](https://github.com/ryanhanwu/How-To-Ask-Questions-The-Smart-Way)
+- [中文](https://github.com/ryanhanwu/How-To-Ask-Questions-The-Smart-Way)
 
 
 <!--
