@@ -2,24 +2,23 @@
 
 I'm stllok - I'm a fullstack developer. I'm interested to build a automatic system.
 
-- 🔭 I’m currently working on my side project with some mini commission
-- 🌱 I’m currently learning UI/UX design
-- 😄 Pronouns: just call me **kelvin**, or if u want here's what I heard from others pronounce my name (still-lok, s-t-lok, s-t-l-l-o-k (???))
+- 🔭 I’m currently working on my side project with some commission project
+- 😄 Pronouns: just call me **stllok** or **kelvin**
 - 📫 How to reach me (discord): lokson0204
 
 ## Tools
 
 ### Operating system
-[![My Skills](https://skillicons.dev/icons?i=linux,windows)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=linux,apple)](https://skillicons.dev)
 
 ### Language
-[![My Skills](https://skillicons.dev/icons?i=rust,scala,python,lua,java,html,css,js,ts,php,c#)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=rust,scala,python,lua,java,html,css,js,ts,php,cs)](https://skillicons.dev)
 
 ### Framework
-[![My Skills](https://skillicons.dev/icons?i=svelte,tailwind,less,tauri,astro)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=svelte,tailwind,alpinejs,elysia,htmx,tauri,astro)](https://skillicons.dev)
 
-### IDE
-[![My Skills](https://skillicons.dev/icons?i=vscode,neovim,androidstudio)](https://skillicons.dev)
+### Game Develop
+[![My Skills](https://skillicons.dev/icons?i=unity,godot)](https://skillicons.dev)
 
 ### Others
 [![My Skills](https://skillicons.dev/icons?i=docker,mysql,postgres,git)](https://skillicons.dev)
