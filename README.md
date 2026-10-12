@@ -12,7 +12,7 @@ I'm stllok - I'm a fullstack developer. I'm interested to build a automatic syst
 [![My Skills](https://skillicons.dev/icons?i=linux,apple)](https://skillicons.dev)
 
 ### Language
-[![My Skills](https://skillicons.dev/icons?i=rust,scala,python,lua,java,html,ts,php,cs)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=rust,scala,python,lua,kotlin,html,ts,php,cs)](https://skillicons.dev)
 
 ### Framework
 [![My Skills](https://skillicons.dev/icons?i=svelte,tailwind,alpinejs,elysia,htmx,tauri,astro)](https://skillicons.dev)
